@@ -1,9 +1,9 @@
 # p-value-alienamiento
 
 ## Requisitos
-Python 3.12.3
-Jupyter Notebook
-Librerías
+Python 3.12.3 <br>
+Jupyter Notebook <br>
+Librerías: 
 <ul>
   <li> subprocess </li>
   <li> tempfile </li>
