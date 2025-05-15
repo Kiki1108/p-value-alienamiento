@@ -7,7 +7,7 @@
 </ul>
 
 ## Requisitos
-Python 3.12.3 <br>
+Python 3.12.3, versiones anteriores podrían no funcionar <br>
 Jupyter Notebook <br>
 Librerías: 
 <ul>
